@@ -1,9 +1,10 @@
-# Models derived from SIR
+# Epidemiological models derived from SIR
 In this repository you can run epidemiological simulations using three different models, namely:
 - SIR model
 - SIRD model
 - age stratified SIRD model
 
+# Installation
 In order to install the repository on your local machine, please run:
 `git clone https://github.com/apalladi/stratified_SIRD.git`
 
